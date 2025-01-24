@@ -43,7 +43,7 @@ s0.parentNode.insertBefore(s1,s0);
 // End of Tawk.to Live Chat
 
 
-// disable developer mode
+// di. developer mode
 document.onkeydown = function(e) {
   if(e.keyCode == 123) {
      return false;

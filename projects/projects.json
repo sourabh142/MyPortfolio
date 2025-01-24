@@ -1,33 +1,34 @@
 [
   
   {
-    "name": "React-Projects",
-    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
+    "name": "Blinkify ",
+    "desc": "Full-Stack Ecommerce Shopping Website. A project built on the React library.",
     "image": "reactprojects",
     "category": "mern",
     "links": {
-      "view": "https://reactjsprojects.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/React-Projects"
+      "view": "https://blinkify-full-stack-519n.vercel.app/",
+      "code": "https://github.com/sourabh142"
+     
     }
   },
   {
-    "name": "React-Projects",
-    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
+    "name": "Chat-Fusion",
+    "desc": "A real time chat app. A Full-Stack project created using socket.io and react library, tailwind css.",
     "image": "reactprojects",
     "category": "mern",
     "links": {
-      "view": "https://reactjsprojects.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/React-Projects"
+      "view": "https://fullstack-chat-app-qn8u.onrender.com",
+      "code": "https://github.com/sourabh142/fullstack-Chat-App"
     }
   },
   {
-    "name": "React-Projects",
-    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
+    "name": "Yummy",
+    "desc": "Front-End project of an Restaurant Website. A project built on the React library.",
     "image": "reactprojects",
     "category": "mern",
     "links": {
-      "view": "https://reactjsprojects.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/React-Projects"
+      "view": "https://yummyproject-one.vercel.app/",
+      "code": "https://github.com/sourabh142/yummyproject"
     }
   }
   
